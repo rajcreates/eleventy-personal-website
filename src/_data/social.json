@@ -1,0 +1,12 @@
+[
+  {
+    "platform": "github",
+    "url": "https://github.com/",
+    "icon": "github.svg"
+  },
+  {
+    "platform": "rss",
+    "url": "/feed.xml",
+    "icon": "rss.svg"
+  }
+]
